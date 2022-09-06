@@ -67,7 +67,5 @@
 
 ![管理员-审核操作2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206162337726.jpg)
 
-## 5、其它
 
-公众 hao：程序员王不二，关注后回复关键词：办公
 
